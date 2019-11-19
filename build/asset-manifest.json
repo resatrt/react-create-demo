@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.3f52c9bb.chunk.js",
-    "main.js.map": "/static/js/main.3f52c9bb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d01d61ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d01d61ca.js.map",
-    "static/js/2.123098c9.chunk.js": "/static/js/2.123098c9.chunk.js",
-    "static/js/2.123098c9.chunk.js.map": "/static/js/2.123098c9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7b007a507fd7a017ef2d05c1507fcd88.js": "/precache-manifest.7b007a507fd7a017ef2d05c1507fcd88.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/react-create-demo/build/index.html/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-create-demo/build/index.html/static/js/main.4b05de08.chunk.js",
+    "main.js.map": "/react-create-demo/build/index.html/static/js/main.4b05de08.chunk.js.map",
+    "runtime-main.js": "/react-create-demo/build/index.html/static/js/runtime-main.cb18fa9f.js",
+    "runtime-main.js.map": "/react-create-demo/build/index.html/static/js/runtime-main.cb18fa9f.js.map",
+    "static/js/2.123098c9.chunk.js": "/react-create-demo/build/index.html/static/js/2.123098c9.chunk.js",
+    "static/js/2.123098c9.chunk.js.map": "/react-create-demo/build/index.html/static/js/2.123098c9.chunk.js.map",
+    "index.html": "/react-create-demo/build/index.html/index.html",
+    "precache-manifest.d853c210e8dd01bae77e71682722fb21.js": "/react-create-demo/build/index.html/precache-manifest.d853c210e8dd01bae77e71682722fb21.js",
+    "service-worker.js": "/react-create-demo/build/index.html/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-create-demo/build/index.html/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/react-create-demo/build/index.html/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d01d61ca.js",
+    "static/js/runtime-main.cb18fa9f.js",
     "static/js/2.123098c9.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.3f52c9bb.chunk.js"
+    "static/js/main.4b05de08.chunk.js"
   ]
 }
