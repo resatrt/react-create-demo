@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-create-demo/build/static/css/main.6704b74b.chunk.css",
+    "main.css": "/react-create-demo/build/static/css/main.294c41f1.chunk.css",
     "main.js": "/react-create-demo/build/static/js/main.6b08fa5f.chunk.js",
     "main.js.map": "/react-create-demo/build/static/js/main.6b08fa5f.chunk.js.map",
     "runtime-main.js": "/react-create-demo/build/static/js/runtime-main.ec51359b.js",
@@ -8,14 +8,14 @@
     "static/js/2.aa8e4a11.chunk.js": "/react-create-demo/build/static/js/2.aa8e4a11.chunk.js",
     "static/js/2.aa8e4a11.chunk.js.map": "/react-create-demo/build/static/js/2.aa8e4a11.chunk.js.map",
     "index.html": "/react-create-demo/build/index.html",
-    "precache-manifest.3d4b932720b88f3669f5fce3a5d4974c.js": "/react-create-demo/build/precache-manifest.3d4b932720b88f3669f5fce3a5d4974c.js",
+    "precache-manifest.08c4feb524b2b6478d4ff8db22f550ce.js": "/react-create-demo/build/precache-manifest.08c4feb524b2b6478d4ff8db22f550ce.js",
     "service-worker.js": "/react-create-demo/build/service-worker.js",
-    "static/css/main.6704b74b.chunk.css.map": "/react-create-demo/build/static/css/main.6704b74b.chunk.css.map"
+    "static/css/main.294c41f1.chunk.css.map": "/react-create-demo/build/static/css/main.294c41f1.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ec51359b.js",
     "static/js/2.aa8e4a11.chunk.js",
-    "static/css/main.6704b74b.chunk.css",
+    "static/css/main.294c41f1.chunk.css",
     "static/js/main.6b08fa5f.chunk.js"
   ]
 }
