@@ -12,10 +12,10 @@ class Button extends Component {
     }
 
     x(event) {
-        // console.log(event.clientX)
+        // console.log(event.clientX)//鼠标点击的位置
         // console.log(event.clientY)
-        // console.log(this.myRef.current.getBoundingClientRect())
-        let { clientX, clientY } = event
+        // console.log(this.myRef.current.getBoundingClientRect())点击实例元素的位置
+        let { clientX, clientY } = event 
         let { x, y } = this.myRef.current.getBoundingClientRect()
         let detalX = clientX - x - 6
         let detalY = clientY - y - 6
